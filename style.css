@@ -94,8 +94,12 @@ img {
 .nav-links {
     display: flex;
     align-items: center;
-    gap: 32px;
+    gap: 24px;
     list-style: none;
+}
+
+.dropdown {
+    margin-right: -15px;
 }
 
 .nav-links li {
